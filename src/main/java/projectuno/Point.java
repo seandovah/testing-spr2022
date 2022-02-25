@@ -5,7 +5,7 @@ public class Point {
 
             System.out.println("Project 1 : Point Tester\n");
 
-
+        double x
             setX (double x);
             setY (double y);
             setPoint (double x, double y);
