@@ -12,6 +12,7 @@ public class fruit implements Comparable<fruit> {
     }
 
     public String getFruitName() {
+
         return fruitName;
     }
 
