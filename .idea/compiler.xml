@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="csc2022" />
         <module name="Projects2022" />
+        <module name="unit-tests" />
       </profile>
     </annotationProcessing>
   </component>
